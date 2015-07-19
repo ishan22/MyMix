@@ -5,7 +5,7 @@
 What is it?
 ---
 
-My Mixer is a revolutionary program that allows you to add your own personal touches to your favorite songs. By using a Myo ArmBand and its included SDK, we can:
+My Mix is a revolutionary program that allows you to add your own personal touches to your favorite songs. By using a Myo ArmBand and its included SDK, we can:
 
   - Change Pitch of a track
   - Increase and decrease the speed of a track
