@@ -5,7 +5,7 @@
 What is it?
 ---
 
-My Mixer is a revolutionary program that allows you to add your own personal touches to your favorite songs. By using a Myo ArmBand and its included SDK, we can:
+My Mix is a revolutionary program that allows you to add your own personal touches to your favorite songs. By using a Myo ArmBand and its included SDK, we can:
 
   - Change Pitch of a track
   - Increase and decrease the speed of a track
@@ -25,9 +25,9 @@ We used four of the total five gestures of the myo in our mixer:
 Spread your fingers out and move right to increase the speed of the track, or left to decrease the speed of the track.
 
 ---
-![alt text](https://s3.amazonaws.com/wordpressprod/blog/wp-content/uploads/2014/09/solid_blue_RH_wave_right.png)
 
----
+
+
 ![alt text](http://www.gaprot.jp/wp-content/uploads/2014/12/DoubleTap.png)
 
 ###End Recording
@@ -46,7 +46,7 @@ My Mix records the track you're mixing by default. To end the track and save the
 ---
 ### APIS
 
-Myo Mixer uses a number of APIs to work properly:
+My Mix uses a number of APIs to work properly:
 
 * [JSyn] - A sound API for JAVA that allows for the manipulation of audio
 * [Myo Language Binding for Java] - Consists of the JAVA APIs written for MYO.
