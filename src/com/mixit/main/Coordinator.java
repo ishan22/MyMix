@@ -22,13 +22,13 @@ public class Coordinator {
 		myo.setStreamEmg(StreamEmgType.STREAM_EMG_ENABLED);
 		
 		try {
-			Converter.convert("C:/Users/Ishan/Downloads/Drake - Trophies (Full Song).mp3", 
-					"C:/Users/Ishan/AngelHacks/drake.wav");
+			Converter.convert("C:/Users/Ishan/AngelHacks/MyoMusicList/Throttle.mp3", 
+					"C:/Users/Ishan/AngelHacks/MyoMusicList/throttle.wav");
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
 
-		SoundHandler sound = new SoundHandler("C:/Users/Ishan/AngelHacks/drake.wav");
+		SoundHandler sound = new SoundHandler("C:/Users/Ishan/AngelHacks/MyoMusicList/throttle.wav");
 		VolumeHandler volume = new VolumeHandler();
 		
 		hub.addListener(new GestureHandler(sound, volume));
