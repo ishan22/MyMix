@@ -8,7 +8,6 @@ What is it?
 My Mixer is a revolutionary program that allows you to add your own personal touches to your favorite songs. By using a Myo ArmBand and its included SDK, we can:
 
   - Change Pitch of a track
-  - Control Volume of a track
   - Increase and decrease the speed of a track
  
 ---
@@ -27,9 +26,6 @@ Spread your fingers out and move right to increase the speed of the track, or le
 
 ---
 ![alt text](https://s3.amazonaws.com/wordpressprod/blog/wp-content/uploads/2014/09/solid_blue_RH_wave_right.png)
-
-###Volume Control
-Keep your hand in a position similar to grasping a tennis ball. Move up and down to control the volume on your device.
 
 ---
 ![alt text](http://www.gaprot.jp/wp-content/uploads/2014/12/DoubleTap.png)
