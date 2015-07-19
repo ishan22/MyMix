@@ -79,7 +79,6 @@ Or download the .jar file here
 Free to use software for educational and proffessional purposes
 
 [JSyn]:http://www.softsynth.com/jsyn/
-[Sonia]:http://sonia.pitaru.com/
 [Myo Language Binding for Java]:https://github.com/NicholasAStuart/myo-java
 
 
