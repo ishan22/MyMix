@@ -17,7 +17,7 @@ My Mixer is a revolutionary program that allows you to add your own personal tou
 We used four of the total five gestures of the myo in our mixer:
  
  ![alt text](http://www.havlena.net/wp-content/uploads/fist-150x150.png) 
- ###Pitch Control
+###Pitch Control
  Make a fist and rotate your wrist clockwise. The pitch of the track will rise. Go counterclockwise to lower the pitch.
  
  ---
